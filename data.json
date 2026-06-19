@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Pink",
+    "role": "Python Developer",
+    "skills": ["Python", "Django", "REST APIs"],
+    "experience_years": 3
+  },
+  {
+    "id": 2,
+    "name": "Alex",
+    "role": "Frontend Developer",
+    "skills": ["JavaScript", "React", "HTML/CSS"],
+    "experience_years": 2
+  },
+  {
+    "id": 3,
+    "name": "Sam",
+    "role": "Frontend Developer",
+    "skills": ["JavaScript", "Bootstrap", "HTML/CSS"],
+    "experience_years": 3
+  }
+]
