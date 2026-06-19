@@ -3,7 +3,7 @@ from google import genai
 from google.genai import types
 
 # Gemini API Key
-API_KEY = "AQ.Ab8RN6LzrVeWrTuuR5jBLL_juJQJE7jM-nmbo0dCZm40y89UYg"
+# API_KEY = "AQ.Ab8RN6LzrVeWrTuuR5jBLL_juJQJE7jM-nmbo0dCZm40y89UYg"
 
 def query_json_with_gemini():
     try:
